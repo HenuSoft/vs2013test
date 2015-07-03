@@ -20,7 +20,7 @@ namespace WindowsFormsApplication2
         private void Form1_Load(object sender, EventArgs e)
         {
             // Test
-            MessageBox.Show("TEST!");
+            MessageBox.Show("TESTING!");
         }
     }
 }
